@@ -14,3 +14,12 @@ Export von M3U Playlisten die sich in jede gängige software einspeisen lassen.
 Grafisches Frontent.
 
 Schnittstelle zu Musikdatenbanken zum automatischen Tagging. 
+
+Einzubindende repos:
+
+https://github.com/jonascj/export-spotify-playlist-py
+
+https://github.com/excerebrose/spotifyImporter
+
+https://github.com/guoguo12/billboard-charts
+
